@@ -3,10 +3,12 @@
 ## Articulos de ayuda
 1. [Gentle Explanation of 'this keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
 2. [Tutorial de SQLAlchemy en python](http://pythoncentral.io/series/python-sqlalchemy-database-tutorial/)
+3. [8 Steps to Building an App from Scratch](https://www.codementor.io/learn-programming/how-to-build-app-from-scratch-beginner-programmer)
 
 ## Projectos e Ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
 2. [Python Central](http://pythoncentral.io/)
+3. [CodeMentor Python Tutorials](https://www.codementor.io/python/tutorial)
 
 ## Otros Recursos
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
