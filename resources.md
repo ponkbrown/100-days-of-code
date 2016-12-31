@@ -12,8 +12,7 @@
 
 ## Otros Recursos
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
-2. [Articulos sobre SQLAlchemy(tutorial)](http://pythoncentral.io/series/python-sqlalchemy-database-tutorial/)
-
+2. [Planet python](http://planetpython.org/)
 ## Tools
 1. [cntr](https://github.com/nsgonultas/cntr): A command line day counter to track your progress easily
 
