@@ -5,11 +5,11 @@
 2. [Tutorial de SQLAlchemy en python](http://pythoncentral.io/series/python-sqlalchemy-database-tutorial/)
 ## Projects and Ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
-2. [The Odin Project](http://www.theodinproject.com/)
+2. [Python Central](http://pythoncentral.io/)
 
 ## Other resources
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
-
+2. [Articulos sobre SQLAlchemy(tutorial)](http://pythoncentral.io/series/python-sqlalchemy-database-tutorial/)
 ## Tools
 1. [cntr](https://github.com/nsgonultas/cntr): A command line day counter to track your progress easily
 
