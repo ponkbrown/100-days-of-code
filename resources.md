@@ -2,7 +2,7 @@
 
 ## Helpful Articles
 1. [Gentle Explanation of 'this keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
-
+2. [Tutorial de SQLAlchemy en python](http://pythoncentral.io/series/python-sqlalchemy-database-tutorial/)
 ## Projects and Ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
 2. [The Odin Project](http://www.theodinproject.com/)
