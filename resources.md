@@ -31,3 +31,22 @@
 * [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
+
+## Tutoriales
+Estos son algunos de los tutoriales que voy a usar para el reto en especifico me enfoco en python, flask y SQL para el backend.
+javascript, html y css para el frontend.
+### Javascript
+1. ["Javascript 30"](https://javascript30.com/account/magic/584b118c99ec21353f30c8fa) 
+2. [FreeCodeCamp](https://www.freecodecamp.com)
+
+### Html y Css
+1. ['Learn Html and CSS'](http://learn.shayhowe.com/html-css/)
+2. ['Aprende a crear Landing Pages con Bootstrap](https://www.udemy.com/crea-una-landing-page-que-enamore-sin-saber-programar/learn/v4/)
+3. ['Estructura con CSS'](http://es.learnlayout.com/)
+4. ['What a FlexBox'](http://flexbox.io/view/Vj7NZ6FiQvo)
+
+### Python
+1. ['Build a SAAS app with Flask'](https://www.udemy.com/course-dashboard-redirect/?course_id=856526)
+
+### Herramientas
+1. ['Git y Github completo desde cero'](https://www.udemy.com/git-y-github-completo-desde-cero/learn/v4/)
