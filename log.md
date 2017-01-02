@@ -14,9 +14,11 @@
 **Today's Progress**: 
 *python*: Hoy resolví el reto de el mapa en [The python challenge](http://www.pythonchallenge.com/pc/def/map.html) 
 *javascript*: Termine el dia 8 de [javascript30](http://javascript30.com)
+
 **Thoughts** 
 *python*:Aprendí sobre los mapas de caracteres y sobre los methodos str.maketrans(), y str.translate()
 *javascript*: Aprendi como hacer canvas para hacer dibujos, también un pequeno algoritmo para manejar la dirección.
+
 **Link(s) to work**
 1. [Python challenge ocr](http://www.pythonchallenge.com/pc/def/ocr.html)
 2. [Mi proyecto de canvas](https://github.com/ponkbrown/30ProyectosJavascript/tree/master/8Canvas)
