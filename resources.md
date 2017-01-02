@@ -16,6 +16,7 @@
 
 ## Tools
 1. [cntr](https://github.com/nsgonultas/cntr): A command line day counter to track your progress easily
+2. [surge](http://surge.sh]: Una herramienta para publicar html, css, js rapido.
 
 ## Libros
 
