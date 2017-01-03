@@ -25,3 +25,20 @@
 
 1. [Python challenge ocr](http://www.pythonchallenge.com/pc/def/ocr.html)
 2. [Mi proyecto de canvas](https://github.com/ponkbrown/30ProyectosJavascript/tree/master/8Canvas)
+
+### Día 2: Enero 2, Domingo
+
+**Progreso de Diario**:
+
+*javascript*: Hoy seguí con el dia 9 de javascript30, no fue ningun proyecto, mas bien
+trucos de como usar console() para depurar javascript.
+
+**Reflexión**:
+
+Todavía me cuesta entender un poco como funciona js, los parametros que se envian a las funciones cuando son llamadas
+y como se me confunden las variables con los objetos es confuso.
+
+**Enlaces**:
+
+[Herramientas para depurar](https://github.com/ponkbrown/30ProyectosJavascript/tree/master/9Tools)
+
