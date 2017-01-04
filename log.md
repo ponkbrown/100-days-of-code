@@ -26,9 +26,9 @@
 1. [Python challenge ocr](http://www.pythonchallenge.com/pc/def/ocr.html)
 2. [Mi proyecto de canvas](https://github.com/ponkbrown/30ProyectosJavascript/tree/master/8Canvas)
 
-### Día 2: Enero 2, Domingo
+### Día 2: Enero 2, Lunes
 
-**Progreso de Diario**:
+**Progreso Diario**:
 
 *javascript*: Hoy seguí con el dia 9 de javascript30, no fue ningun proyecto, mas bien
 trucos de como usar console() para depurar javascript.
@@ -41,4 +41,20 @@ y como se me confunden las variables con los objetos es confuso.
 **Enlaces**:
 
 [Herramientas para depurar](https://github.com/ponkbrown/30ProyectosJavascript/tree/master/9Tools)
+
+### Día 3: Enero 3, Martes
+
+**Progreso Diario**
+
+*Python*: Empecé a programar una app de información para el RaspberryPi, la informacion la obtiene con python y la muestra
+en una app con flask
+
+**Reflexión**
+
+Se escucha sencilla, y de echo lo es, pero voy practicando y aprendiendo a usar algunos modulos como popen, os, psutil etc. Y por 
+fín parece que ya estoy entendiendo los blueprints de flask.
+
+**Enlaces**
+
+[Tutorial y pagina de muestra](http://www.ashokraja.me/post/Raspberry-Pi-System-Information-Web-Application-with-Python-and-Flask.aspx)
 
