@@ -58,3 +58,17 @@ fín parece que ya estoy entendiendo los blueprints de flask.
 
 [Tutorial y pagina de muestra](http://www.ashokraja.me/post/Raspberry-Pi-System-Information-Web-Application-with-Python-and-Flask.aspx)
 
+### Día 4: Enero 4, Miercoles
+
+**Progreso Diario**
+
+*Python*: Continuando con el proyecto de información para el raspberryPi
+el script que busca la información ya funciona y ya muestra información.
+
+**Reflexión**
+
+Ya va avanzando el miniproyecto, y si siento que me falta practica para 
+pensar de forma "programatica" por que a veces me atoro en como debo 
+estructurar las cosas para que funcione.
+
+[RaspberrySysInfo](https://github.com/ponkbrown/RaspberrySysInfo)
