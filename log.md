@@ -72,3 +72,18 @@ pensar de forma "programatica" por que a veces me atoro en como debo
 estructurar las cosas para que funcione.
 
 [RaspberrySysInfo](https://github.com/ponkbrown/RaspberrySysInfo)
+
+### Día 5: Enero 5, Jueves
+
+**Progreso Diario**
+
+*javascript*: Muy apresurado el proyecto 10 de javascript30 pero casi lo
+termine, mañana temprano lo termino y que no cuente tiempo en mi hora de
+mañana
+
+**Reflexión**
+
+Como que ya entiendo la forma en que fluye javascript, pero aun no me puedo
+lanzar a terminar un script yo solo.
+
+[Holding Shift (GitHub)](https://github.com/ponkbrown/30ProyectosJavascript/tree/master/10%20HoldShift) Cuando termine lo subire a [surge](https://surge.sh)
