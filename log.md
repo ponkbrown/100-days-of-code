@@ -86,4 +86,4 @@ mañana
 Como que ya entiendo la forma en que fluye javascript, pero aun no me puedo
 lanzar a terminar un script yo solo.
 
-[Holding Shift (GitHub)](https://github.com/ponkbrown/30ProyectosJavascript/tree/master/10%20HoldShift) Cuando termine lo subire a [surge](https://surge.sh)
+[Holding Shift (GitHub)](https://github.com/ponkbrown/30ProyectosJavascript/tree/master/10%20HoldShift) [surge](https://hold-shift.surge.sh)
