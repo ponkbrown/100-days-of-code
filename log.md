@@ -86,6 +86,7 @@ mañana
 Como que ya entiendo la forma en que fluye javascript, pero aun no me puedo
 lanzar a terminar un script yo solo.
 
+<<<<<<< HEAD
 [Holding Shift (GitHub)](https://github.com/ponkbrown/30ProyectosJavascript/tree/master/10%20HoldShift) Cuando termine lo subire a [surge](https://surge.sh)
 
 ### Dia 6: Enero 6, Viernes
@@ -112,6 +113,9 @@ el curso nos anima a hacerlo por nuestra cuenta, pero no pude lograrlo, no pude 
 Entendí mejor para que funcionan las pruebas, aunque no puedo echar a andar el modulo, es algo muy nuevo para mi, sobre todo el concepto. Lo que si 
 e estado mejorando es en git, y ya puedo seguir mis proyectos creo que mejor.
 
-['PythonEyes proyecto en flask](https://github.com/ponkbrown/pythoneyes)
+['PythonEyes proyecto en flask'](https://github.com/ponkbrown/pythoneyes)
 
 
+=======
+[Holding Shift (GitHub)](https://github.com/ponkbrown/30ProyectosJavascript/tree/master/10%20HoldShift) [surge](https://hold-shift.surge.sh)
+>>>>>>> c848fd41e0dce609d8dfaf8af26a7232d0db5217
